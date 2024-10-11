@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sinople-lab
+- 👋 Hi, my name is Martin Carballo Flores
 - 👀 I’m interested in web apps and web frontend development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on web animations
