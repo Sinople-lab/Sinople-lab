@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Martin Carballo Flores
-- 👀 I’m interested in web apps and web frontend development
-- 🌱 I’m currently learning frontend development
+- 👀 I’m interested in web and game development
+- 🌱 I’m currently learning about data bases
 - 💞️ I’m looking to collaborate on web animations
 - 📫 How to reach me -> email to sinoplecarballo@gmail.com
 - ⚡ Fun fact: I dunno
